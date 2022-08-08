@@ -12,6 +12,7 @@
 
 💗 I'm already so so much appreciated who gives star the project or supports me on buy me a coffe! 
 
+# Features
 -  You can scrape profile pictures on 'webp' | 'png' | 'jpg' | 'jpeg' formats.
 -  You can reach usernames of all users from txt.
 -  You could use id's from json database.
@@ -23,37 +24,34 @@
 
 👍 There are plenty of things that could be added to the script, feel free to contribute! 
 
-# Installation
+# ☕ Usage
 
-😔 We currently cannot support bun because bun.js does not support node http/https api which is used in discord-selfbot-v13.
+  - ## Installation
+   
+     1- Clone repo from git.
+     ```
+     >> git clone https://github.com/sertchan/Discord-Scraper
+     ```
+    
+     2 - First, create your .env file using .env.example.
 
-First, create your .env file using .env.example (rename it to .env). If you wont do it causes token error.
+     ```
+     GUILDID=xxxx
+     TOKEN=xxx
+     FORMAT=png
+     ```
+    
+      3 - Install the dependencies:
+  
+     ```sh
+     >> npm install
+     ```
 
-```
-GUILDID=xxxx
-TOKEN=xxx
-FORMAT=png
-```
-
-🎀 You will install that npm modules: chalk, chalk-animation, discord.js-selfbot-v13, dotenv, easy-json-database , fs, fs-extra, gradient-string, nanospinner, uniqid.
-
-If you have [pnpm](https://pnpm.io/) installed you can run:
-
-```sh
-$ pnpm install
-```
-
-Otherwise you can use:
-
-```sh
-$ npm install
-```
-
-# Simple Usage
-
-```
-node . or node ./src/index.js
-```
+  - ## Starting
+    
+     ```
+      >> node . 
+     ```
 
 # 😎 Some Screenshots from the project 
 

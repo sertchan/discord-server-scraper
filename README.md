@@ -12,17 +12,18 @@
 
 💗 I'm already so so much appreciated who gives star the project or supports me on buy me a coffe! 
 
-# Features
--  You can scrape profile pictures on 'webp' | 'png' | 'jpg' | 'jpeg' formats.
--  You can reach usernames of all users from txt.
--  You could use id's from json database.
--  Bot creates specific folders for guilds so it is really easy to handle.
--  I used local json database for safety and accessibility.
--  It is not possiable to rewrite this project with using discord res api due restrictions. 
+# 👾 Features
+  -  You can scrape profile pictures on 'webp' | 'png' | 'jpg' | 'jpeg' formats.
+  -  You can reach usernames of all users from txt.
+  -  You could use id's from json database.
+  -  Bot creates specific folders for guilds so it is really easy to handle.
+  -  I used local json database for safety and accessibility.
+  -  It is not possiable to rewrite this project with using discord res api due restrictions. 
 
-😶‍🌫️ I added all of thing could scaraped as an normal user on api. Scraping banners. Bio's etc. as a normal user does not allowed in discord.js api. Thanks for patience.
+# 💌 Notes
+  - 😶‍🌫️ I added all of thing could scaraped as an normal user on api. Scraping banners. Bio's etc. as a normal user does not allowed in discord.js api. Thanks for patience.
 
-👍 There are plenty of things that could be added to the script, feel free to contribute! 
+  - 👍🏻 There are plenty of things that could be added to the script, feel free to contribute! 
 
 # ☕ Usage
 

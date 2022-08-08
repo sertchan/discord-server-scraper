@@ -1,16 +1,22 @@
 # ✨ Discord Guild Members Scraper ✨
+<p align='center'>
+<b>Follow Me!   </b><br>  
+<a href="https://twitter.com/shhsmn">Twitter</a> /
+<a href="https://github.com/sertchan">Github</a><br><br>
+<img src='https://cdn.discordapp.com/attachments/1001955561274876057/1004373037891723264/unknown.png' style="width: 80%"> 
+</p>
 
-⭐ Dont Forget to give this wonderful project a star! For helping people who needs this tool!
+- ⭐ Dont Forget to give this wonderful project a star! For helping people who needs this tool!
 
-🔥 If this tool has been useful for you and saved your day, please feel free to thank me by buying me a coffee!
+- 🔥 If this tool has been useful for you and saved your day, please feel free to thank me by buying me a coffee!
 
-[![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sertchan)
+  >[![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sertchan)
 
-⚠️ This project uses discord.js selfbot api so the risks you take are your own.
+- ⚠️ This project uses discord.js selfbot api so the risks you take are your own.
 
-🎌 The goal of the project is scraping users in specifed guild. Scrapes pfp's, usernames, ids, pfp url's. 
+- 🎌 The goal of the project is scraping users in specifed guild. Scrapes pfp's, usernames, ids, pfp url's. 
 
-💗 I'm already so so much appreciated who gives star the project or supports me on buy me a coffe! 
+- 💗 I'm already so so much appreciated who gives star the project or supports me on buy me a coffe! 
 
 # 👾 Features
   -  You can scrape profile pictures on 'webp' | 'png' | 'jpg' | 'jpeg' formats.
@@ -56,7 +62,7 @@
 
 # 😎 Some Screenshots from the project 
 
-![Console Output](https://cdn.discordapp.com/attachments/1001955561274876057/1004373037891723264/unknown.png)
+
 ![Twitter account activity](https://cdn.discordapp.com/attachments/1001955561274876057/1004372701714071593/unknown.png)
 ![pfps](https://cdn.discordapp.com/attachments/1001955561274876057/1004373286467154021/unknown.png)
 

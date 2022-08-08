@@ -23,7 +23,7 @@
 
 👍 There are plenty of things that could be added to the script, feel free to contribute! 
 
-### Installation
+# Installation
 
 😔 We currently cannot support bun because bun.js does not support node http/https api which is used in discord-selfbot-v13.
 
@@ -49,13 +49,13 @@ Otherwise you can use:
 $ npm install
 ```
 
-### Simple Usage
+# Simple Usage
 
 ```
 node . or node ./src/index.js
 ```
 
-### 😎 Some Screenshots from the project 
+# 😎 Some Screenshots from the project 
 
 ![Console Output](https://cdn.discordapp.com/attachments/1001955561274876057/1004373037891723264/unknown.png)
 ![Twitter account activity](https://cdn.discordapp.com/attachments/1001955561274876057/1004372701714071593/unknown.png)

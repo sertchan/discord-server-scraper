@@ -5,7 +5,6 @@
 <b>Socials</b><br>  
 <a href="https://open.spotify.com/user/6byx8g9mgq2tt274rxu8g8wyr" target="_blank">Spotify</a> /
 <a href="https://github.com/sertchan" target="_blank">Github</a><br><br>
-<img src='https://cdn.discordapp.com/attachments/1001955561274876057/1004373037891723264/unknown.png' style="width: 80%"> 
 </p>
 
 - ⭐ Dont Forget to give this wonderful project a star! For helping people who needs this tool!
@@ -74,10 +73,6 @@
       >> node . 
      ```
 <center>
-
-<h1> 💖 Some Screenshots from the project </h1>
-<img src='https://cdn.discordapp.com/attachments/1001955561274876057/1004372701714071593/unknown.png' style="width: 80%"> 
-<img src='https://cdn.discordapp.com/attachments/1001955561274876057/1004373286467154021/unknown.png' style="width: 80%"> 
 
 <h2>♨️ License </h2>
 <p>MIT License </p>
